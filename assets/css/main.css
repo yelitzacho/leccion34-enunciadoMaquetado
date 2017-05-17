@@ -1,0 +1,35 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+header{
+	height: 480px;
+}
+.logo{
+	width: 120px;
+	height: auto;
+}
+.icon--hero-bg{
+	background-position: right bottom;
+}
+.icon--hero-park{
+	width: 260px;
+	height: 316px;
+}
+.icon--hero-bench{
+	width: 148px;
+	height: 66px;
+}
+.icon{
+	position: absolute;
+}
+.icon--step-bond-guarantee, .icon--step-quote, .icon--step-payment {
+	width: 260px;
+	height: 316px;
+}
+.icon-circle{
+	background-color: #ffcc66;
+	width: 220px;
+	height: 220px;
+	border-radius: 110px;
+}
